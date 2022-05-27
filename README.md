@@ -1,4 +1,8 @@
 # JavaSnake
 A simple snake game made with java.
 
-## Java version SE 13
+## Requirements 
+- Java version SE 13 and above
+
+## Download
+[**Download From Source**](https://github.com/hectorwithc/JavaSnake/raw/master/builds/JavaSnake.jar)
